@@ -1,6 +1,6 @@
 #!/bin/bash
 set -x
-#I attempt to make a change
+#I deleted the change
 ############################################
 # DSI CONSULTING INC. Project setup script #
 ############################################
